@@ -1,0 +1,16 @@
+Open the GitHub link - https://github.com/krishchadha/Attacks-on-osi-model
+
+Fork the Repository 
+
+I have already forked...
+
+Fork repo will appear in the Repository
+
+Add File --> Upload Files
+
+Then upload a file...
+
+And Commit Change
+
+Once You have Committed Changes then you can made a Pull Request...
+i.e. Contribute --> Open pull req.
